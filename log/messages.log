@@ -1,0 +1,3 @@
+[2022-06-23T07:50:06.382385+00:00] log.INFO: user send message {"user":"admin","send":"Привет"} []
+[2022-06-23T07:50:23.559963+00:00] log.INFO: user send message {"user":"user","send":"hi,kak dela ?"} []
+[2022-06-23T07:50:39.993607+00:00] log.INFO: user send message {"user":"admin","send":"Norm, ты как ?"} []
